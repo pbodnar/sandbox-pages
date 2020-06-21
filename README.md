@@ -6,7 +6,7 @@ Hello World!
 
 # Footnotes
 
-See https://kramdown.gettalong.org/syntax.html#footnotes
+See <https://kramdown.gettalong.org/syntax.html#footnotes>
 
 This requires setting this in _\_config.yml_ for GitHub pages:
 
