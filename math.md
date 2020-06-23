@@ -8,4 +8,4 @@ Some math stuff:
 
 $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
 
-Inline square of r: \( r^2 \).
+Inline square of r: \\( r^2 \\).
