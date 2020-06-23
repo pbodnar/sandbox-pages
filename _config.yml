@@ -1,4 +1,4 @@
-markdown: commonmark
+markdown: GFM
 theme: minima
 kramdown:
   math_engine: mathjax
