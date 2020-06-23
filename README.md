@@ -27,4 +27,3 @@ This is some text.[^1] Other text.[^footnote]
 
     or, naturally, simple paragraphs.
 
-bla...
