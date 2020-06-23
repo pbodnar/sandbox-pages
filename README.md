@@ -26,3 +26,5 @@ This is some text.[^1] Other text.[^footnote]
         as well as code blocks
 
     or, naturally, simple paragraphs.
+
+bla...
