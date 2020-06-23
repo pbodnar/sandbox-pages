@@ -18,7 +18,9 @@ Naturally, the following example doesn't work with GitHub's markdown implementat
 
 ## Example
 
-This is some text.[^1] Other text.[^footnote]
+This is some text.[^1] Other text.[^footnote].
+
+Another text with footnote.[^2]
 
 [^1]: Some *crazy* footnote definition.
 
@@ -29,3 +31,4 @@ This is some text.[^1] Other text.[^footnote]
 
     or, naturally, simple paragraphs.
 
+[^2]: This will actually become footnote #3...
